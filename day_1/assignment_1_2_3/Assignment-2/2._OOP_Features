@@ -1,0 +1,7 @@
+a) Attributes are StudentId, StudentName and the marks obtained by the student.Student Name and other details like his lecturer and his registered courses can be exposed while the marks and his login details to view his marks and attendance should be hidden.
+
+b) It does not matter whether the student is a host-elite(graduate or post-graduate) or day-scholar(graduate or post-graduate), the method for the calculation remains same.So, only one method is required. Also, the method name and signature remains same as the method just returns the grade of student. The functionality remains same as everyone inherits from Student type.
+
+c) Since, the semester fee structure remains same for a student whether he is a host-elite or day-scholar.So, two functions are enough in student class.
+
+d) Encapsulation - for a, Inheritance for b and Polymorphism for c.
