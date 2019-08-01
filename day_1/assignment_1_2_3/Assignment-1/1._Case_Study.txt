@@ -1,3 +1,5 @@
+Hello
+
 a) The two cases of heirarchy are the allocation of students and lecturers to the courses offered where each student can apply for a course in a particular branch depending on whether he is a graduate or a post-graduate. The student has to select 2 electives and these electives have to be chosen only from a particular semester depending on whether he is a graduate or a post-graduate. Furthermore, the student has to choose a project or thesis which also depends on whether he is a graduate or a post-graduate student.
 
 b) Irrespective of the type of student whether he is a day-scholar, host-elite, graduate or post-graduate, the common behavior is that all are students and they apply to the courses offered by the lecturers and the system maintains all the marks and attendance details of the student.
